@@ -1,5 +1,4 @@
 # nfl-data-analysis
-NFL data analytics project using R, SQL, and Power BI to identify the factors most associated with winning NFL games.
 An end-to-end NFL analytics project using **R, SQL, Power BI, and GitHub** to identify which offensive metrics are most associated with winning NFL games.
 
 ## Tools
