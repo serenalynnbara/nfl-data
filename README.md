@@ -33,5 +33,5 @@ This project includes:
 - Red zone touchdown rate and third-down conversion rate also contributed to winning.
 
 ## Dashboard
-
 ![Dashboard](dashboard.png)
+
